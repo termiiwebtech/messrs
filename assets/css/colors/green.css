@@ -1,0 +1,69 @@
+a:hover, a:focus,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+.main-nav .sf-menu li.current a,
+.main-nav .sf-menu li ul li.current a,
+.main-nav .sf-menu a:hover,
+.sf-menu li a:hover, .sf-menu li.sfHover a:hover,
+.main-title h4,
+.button,
+.button a,
+.service-box-sb .service-icon,
+.service-box-la .service-icon,
+.team-person .team-info .team-role,
+.pricing-table ul li.plan-name.pro-color,
+.pricing-table ul li.plan-order,
+.pricing-table ul li.plan-order a,
+.nav-tabs > li > a:hover,
+.port-filter ul li a:hover,
+.classic-portfolio .project-item .project-info h4 a:hover,
+.classic-portfolio .project-item .project-info .project-cat a:hover,
+.blog-posts-g li .post-content .post-info,
+.blog-posts-g li .post-content .post-info a,
+.single-post .post-info .post-meta span,
+.single-post .post-info .post-meta a,
+.single-post .post-info .post-excerpt .readmore,
+.products li .product-desc h4 a:hover, .products li .product-desc .product-cat a:hover,
+.products li .product-desc .product-price,
+.single-product-des .single-product-price,
+.single-product-des .quantity .minus:hover, .single-product-des .quantity .plus:hover,
+.product-extra-info .nav-tabs>li.active>a, .product-extra-info .nav-tabs>li.active>a:hover, .product-extra-info .nav-tabs>li.active>a:focus,
+.search-widget input[type="submit"]:hover .search-button,
+.widget_recent_entries ul li a:hover, .widget_categories ul li a:hover,
+.ui-widget-header,
+.text-banner a.custom-btn:hover {
+	color: #32742C;
+}
+.button,
+.pagination-cm li.active a, .pagination-cm li a:hover,
+.products li .product-img .atb,
+.port-filter ul li a:hover,
+.port-filter ul li.active a:hover,
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	border-color: #32742C;
+}
+.main-nav .sf-menu ul,
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus  {
+	border-top-color: #32742C;
+}
+blockquote {
+	border-left-color: #32742C;	
+}
+.team-person .team-photo .tp-icon,
+.sq-progress-container .sq-progress .sq-progress-bar,
+.overlay ul li.project-details a .fa,
+.port-filter ul li.active a,
+.pagination-cm li.active a, .pagination-cm li a:hover,
+.products li .product-img .atb,
+.ui-widget-header,
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default,
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	background: #32742C;
+}
+::-moz-selection {
+	background: #32742C;
+	color: #fff;
+}
+::selection {
+	background: #32742C;
+	color: #fff;
+}
